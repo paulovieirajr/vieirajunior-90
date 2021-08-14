@@ -1,6 +1,6 @@
-- 🎓 Olá! Eu sou o Junior, estudante de Análise e Desenvolvimento de Sistemas. 
-- 🐍 Aprendendo Python
-- 🐧 Desbravando o mundo Linux
+- 🎓 Olá! Eu sou o Junior, estudante de Análise e Desenvolvimento de Sistemas pela universidade Uninter.
+- 🐍 Aprendendo Python.
+- 🐧 Desbravando o mundo Linux, comecei pelo Ubuntu, hoje estudo pelo Debian.
 
 <div>
   <a href="https://github.com/vieirajunior-90">
