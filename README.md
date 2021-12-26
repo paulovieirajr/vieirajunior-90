@@ -1,10 +1,10 @@
 - 🎓 Olá! Eu sou o Junior, estudante de Análise e Desenvolvimento de Sistemas pela universidade Uninter.
 - 📚 Aprendendo: 
-  * 🐧 Linux
+  
+  * 💻 Tríade Front-End: HTML, CSS e Javascript
   * 🐍 Python
-  * 🇭 HTML
-  * 🇨 CSS
-  * 🇯 JS
+  * 🐧 Linux
+  
 
 <div>
   <a href="https://github.com/vieirajunior-90">
@@ -14,11 +14,12 @@
  
 <div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Junior-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Junior-Linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linux/linux-original.svg">
-  <img align="center" alt="Junior-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Junior-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Junior-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+   <img align="center" alt="Junior-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+   <img align="center" alt="Junior-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+   <img align="center" alt="Junior-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+   <img align="center" alt="Junior-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Junior-Linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linux/linux-original.svg">
+ 
 
 </div>
   
