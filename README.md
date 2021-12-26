@@ -1,5 +1,6 @@
 - 🎓 Olá! Eu sou o Junior, estudante de Análise e Desenvolvimento de Sistemas pela universidade Uninter.
-- 📚 Aprendendo: 
+- 🙋‍♂️ Procuro uma oportunidade de estágio ou desenvolvedor jr. na área de desenvolvimento web.
+- 📚 Venho aprendendo: 
   
   * 💻 Tríade Front-End: HTML, CSS e Javascript
   * 🐍 Python
