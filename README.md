@@ -1,11 +1,9 @@
 - 🎓 Olá! Eu sou o Junior, estudante de Análise e Desenvolvimento de Sistemas pela universidade Uninter.
 - 🙋‍♂️ Procuro uma oportunidade de estágio ou desenvolvedor jr. na área de desenvolvimento web.
-- 📚 Venho aprendendo: 
+- 📚 O que venho estudando: 
   
-  * 💻 Tríade Front-End: HTML, CSS e Javascript
-  * 🐍 Python
-  * 🐧 Linux
-  
+  * 💻 HTML, CSS e Javascript para Frontend
+  * ☕ Java para Backend
 
 <div>
   <a href="https://github.com/vieirajunior-90">
@@ -18,6 +16,7 @@
    <img align="center" alt="Junior-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
    <img align="center" alt="Junior-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
    <img align="center" alt="Junior-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Junior-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
    <img align="center" alt="Junior-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Junior-Linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linux/linux-original.svg">
  
