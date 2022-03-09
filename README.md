@@ -2,8 +2,7 @@
 - 🙋‍♂️ Procuro uma oportunidade de estágio ou desenvolvedor jr. na área de desenvolvimento web.
 - 📚 O que venho estudando: 
   
-  * 💻 HTML, CSS e Javascript para Frontend
-  * ☕ Java para Backend
+  * ☕ Java - Spring Framework
 
 <div>
   <a href="https://github.com/vieirajunior-90">
