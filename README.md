@@ -3,6 +3,8 @@
 - 📚 O que venho estudando: 
   
   * ☕ Java - Spring Framework
+  * 🐋 Docker
+  * 🐘 PostgreSQL
 
 <div>
   <a href="https://github.com/vieirajunior-90">
