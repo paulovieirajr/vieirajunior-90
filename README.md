@@ -1,10 +1,11 @@
 - 🎓 Olá! Eu sou o Junior, estudante de Análise e Desenvolvimento de Sistemas pela universidade Uninter.
-- 🙋‍♂️ Procuro uma oportunidade de estágio ou desenvolvedor jr. na área de desenvolvimento web.
+- 🙋‍♂️ Estagiário na IBM.
 - 📚 O que venho estudando: 
   
   * ☕ Java - Spring Framework
   * 🐋 Docker
   * 🐘 PostgreSQL
+  * 🍃 MongoDB
 
 <div>
   <a href="https://github.com/vieirajunior-90">
