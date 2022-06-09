@@ -1,6 +1,6 @@
-- 🎓 Olá! Eu sou o Junior, estudante de Análise e Desenvolvimento de Sistemas pela universidade Uninter.
-- 🙋‍♂️ Estagiário na IBM.
-- 📚 O que venho estudando: 
+- 🎓 Hi there ! I am Junior and I am student of Systems Development and Analysis.
+- 🙋‍♂️ Early Associate Developer at IBM.
+- 📚 Here's what I've been studying: 
   
   * ☕ Java - Spring Framework
   * 🐋 Docker
