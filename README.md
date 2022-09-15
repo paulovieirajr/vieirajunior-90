@@ -1,11 +1,11 @@
 - 🎓 Hi there ! I am Junior and I am student of Systems Development and Analysis.
 - 🙋‍♂️ Early Associate Developer at IBM.
-- 📚 Here's what I've been studying: 
+- 📚 Technologies: 
   
-  * ☕ Java - Spring Framework
+  * ☕ Java 
+  * 🍃 Spring Framework
   * 🐋 Docker
   * 🐘 PostgreSQL
-  * 🍃 MongoDB
 
 <div>
   <a href="https://github.com/vieirajunior-90">
