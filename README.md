@@ -18,7 +18,7 @@ Gosto de trabalhar com a stack <em>Java e Spring</em>, curto <em>Python e Linux<
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieirajunior-90&layout=compact&langs_count=7&theme=yeblu"/>
 </div>
  
-<div>
+<div align="center">
   <div style="display: inline_block"><br>
    <img align="center" alt="Junior-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Junior-Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
