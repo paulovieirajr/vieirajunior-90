@@ -1,12 +1,17 @@
-- 🎓 Hi there ! I am Junior and I am student of Systems Development and Analysis.
-- 🙋‍♂️ Early Associate Developer at IBM.
-- 📚 Technologies: 
-  
-  * ☕ Java 
-  * 🍃 Spring Framework
-  * 🐋 Docker
-  * 🐘 PostgreSQL
+<samp>
 
+<h1 align="center">Oi, tudo bem !? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+
+
+<h3 align="center">
+  Meu nome é Paulo Vieira, tenho 31 anos, sou do Rio de Janeiro. Sou estudante de Análise e Desenvolvimento de Sistemas com previsão de formatura para o fim de 2023, adoro tecnologia e suas nuances.
+</h3>
+<h3 align="center">
+  Hoje trabalho na <a href="https://www.ibm.com/br-pt" target="_blank">IBM</a> como Associate Software Developer desde junho/2022.
+</h3>
+<h3 align="center">
+Gosto de trabalhar com a stack <em>Java e Spring</em>, curto <em>Python e Linux</em> e adoro ferramentas como <em>Docker</em>.
+</h3>
 <div>
   <a href="https://github.com/vieirajunior-90">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vieirajunior-90&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
@@ -19,7 +24,8 @@
     <img align="center" alt="Junior-Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
    <img align="center" alt="Junior-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Junior-Linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linux/linux-original.svg">
- 
+ <img align="center" alt="Junior-Docker" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+
 
 </div>
   
@@ -29,9 +35,11 @@
   <a href="https://www.linkedin.com/in/paulocvieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:junior.vieira.1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/juniorvieira_22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+</samp>
 
 
