@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-  Meu nome é Paulo Vieira, tenho 31 anos, sou do Rio de Janeiro. Sou estudante de Análise e Desenvolvimento de Sistemas com previsão de formatura para o fim de 2023, adoro tecnologia e suas nuances.
+  Meu nome é Paulo Vieira, tenho 32 anos, sou do Rio de Janeiro. Sou estudante de Análise e Desenvolvimento de Sistemas com previsão de formatura para o fim de 2023, adoro tecnologia e suas nuances.
 </h3>
 <h3 align="center">
   Hoje trabalho na <a href="https://www.ibm.com/br-pt" target="_blank">IBM</a> como Associate Software Developer desde junho/2022.
