@@ -1,16 +1,16 @@
 <samp>
 
-<h1 align="center">Oi, tudo bem !? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hello, how's it going !? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 
 <h3 align="center">
-  Meu nome é Paulo Vieira, tenho 32 anos, sou do Rio de Janeiro. Sou estudante de Análise e Desenvolvimento de Sistemas com previsão de formatura para o fim de 2023, adoro tecnologia e suas nuances.
+  My name is Paulo Vieira, I'm 32 years old, I'm from Rio de Janeiro. I am a Systems Analysis and Development student with graduation scheduled for the end of 2023, I love technology and its nuances.
 </h3>
 <h3 align="center">
-  Hoje trabalho na <a href="https://www.ibm.com/br-pt" target="_blank">IBM</a> como Associate Software Developer desde junho/2022.
+  I currently work at <a href="https://www.ibm.com/br-pt" target="_blank">IBM</a> as an Associate Software Developer since May/2022.
 </h3>
 <h3 align="center">
-Gosto de trabalhar com a stack <em>Java e Spring</em>, curto <em>Python e Linux</em> e adoro ferramentas como <em>Docker</em>.
+I like working with the <em>Java/Spring and TypeScript/Angular</em> stack.
 </h3>
 <div align="center">
   <a href="https://github.com/vieirajunior-90">
@@ -22,10 +22,13 @@ Gosto de trabalhar com a stack <em>Java e Spring</em>, curto <em>Python e Linux<
   <div style="display: inline_block"><br>
    <img align="center" alt="Junior-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Junior-Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-   <img align="center" alt="Junior-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Junior-Linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linux/linux-original.svg">
+   <img align="center" alt="Junior-TypeScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+   <img align="center" alt="Junior-Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+    <img align="center" alt="Junior-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Junior-Postgres" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Junior-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="Junior-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
  <img align="center" alt="Junior-Docker" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-
 
 </div>
   
@@ -33,7 +36,7 @@ Gosto de trabalhar com a stack <em>Java e Spring</em>, curto <em>Python e Linux<
   
 <div>
   <a href="https://www.linkedin.com/in/paulocvieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:junior.vieira.1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:paulovieira_dev@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/juniorvieira_22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
  
