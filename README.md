@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-  My name is Paulo Vieira, I'm 32 years old, I'm from Rio de Janeiro. I am a Systems Analysis and Development student with graduation scheduled for the end of 2023, I love technology and its nuances.
+  My name is Paulo Vieira, I'm 33 years old, I'm from Rio de Janeiro. I am a Systems Analysis and Development student with graduation scheduled for the end of 2023, I love technology and its nuances.
 </h3>
 <h3 align="center">
   I currently work at <a href="https://www.ibm.com/br-pt" target="_blank">IBM</a> as a Backend Developer since May/2022.
